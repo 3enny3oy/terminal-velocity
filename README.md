@@ -1,2 +1,2 @@
 # terminal-velocity
-Maximum speed in your terminal
+Achieve terminal *velocity* with our *CLI*
